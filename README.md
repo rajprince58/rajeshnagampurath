@@ -38,7 +38,7 @@
 
 ## 📈 GitHub Stats & Badges
 
-![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeshnagampurath&show_icons=true&theme=radical)
 
 ---
 
